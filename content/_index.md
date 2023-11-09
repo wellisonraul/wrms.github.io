@@ -233,20 +233,15 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: wrms@cin.ufpe.br
-      appointment_url: 'https://calendly.com'
       address:
         street: 1235, Av. Prof. Moraes Rego
         city: Recife
         region: PE
         postcode: '50670-901'
         country: Brazil
-        country_code: BR 
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        country_code: BR
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
