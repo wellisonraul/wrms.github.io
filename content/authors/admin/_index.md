@@ -124,5 +124,7 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am a third year PhD Computer Science ca at the [Universidade Federal de Pernambuco](https://www.ufpe.br/). I am a member of the [GFADS Research Group](https://sites.google.com/a/cin.ufpe.br/gfads/), and am supervised by Prof. [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/).
+
+
 {style="text-align: justify;"}
