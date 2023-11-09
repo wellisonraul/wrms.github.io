@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Wellison Santos
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Wellison
+last_name: Santos
 
 # Status emoji
 status:
@@ -17,34 +17,38 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Ph.D. Candidate in Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Universidade Federal de Pernambuco
+    url: https://www.ufpe.br/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
+  - ML for Systems
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Distributed Systems
+  - Cloud Computing
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science, In Progress
+      institution: Universidade Federal de Pernambuco
+      year: 
+    - course: Visiting Student in College of Engineering, In Progress
+      institution: University of British Columbia
+      year: 
+    - course: MSc in Computer Science,
+      institution: Universidade Federal de Pernambuco
+      year: 2020
+    - course: BSc in Computer Science,
+      institution: Universidade do Estado do Rio Grande do Norte
+      year: 2017
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -102,13 +106,13 @@ social:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=sIJfHH0AAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/wellisonraul
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/wellison-santos-476592131/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
