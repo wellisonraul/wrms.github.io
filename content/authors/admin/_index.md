@@ -3,7 +3,7 @@
 title: Wellison Santos
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Wellison
@@ -40,7 +40,7 @@ education:
     - course: PhD in Computer Science, In Progress
       institution: Universidade Federal de Pernambuco
       year: 
-    - course: Visiting Student in College of Engineering, In Progress
+    - course: Visiting International Research Student, In Progress
       institution: University of British Columbia
       year: 
     - course: MSc in Computer Science,
@@ -103,7 +103,7 @@ social:
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
-      header: true
+      header: false
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=sIJfHH0AAAAJ&hl=en
