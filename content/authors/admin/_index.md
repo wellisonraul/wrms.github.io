@@ -39,14 +39,11 @@ education:
   courses:
     - course: PhD in Computer Science, In Progress
       institution: Universidade Federal de Pernambuco
-      year: 
-    - course: Visiting International Research Student, In Progress
-      institution: University of British Columbia
-      year: 
-    - course: MSc in Computer Science,
+      year:
+    - course: MSc in Computer Science
       institution: Universidade Federal de Pernambuco
       year: 2020
-    - course: BSc in Computer Science,
+    - course: BSc in Computer Science
       institution: Universidade do Estado do Rio Grande do Norte
       year: 2017
 
@@ -124,7 +121,10 @@ social:
 highlight_name: true
 ---
 
-Hi! I am a third year PhD Computer Science ca at the [Universidade Federal de Pernambuco](https://www.ufpe.br/). I am a member of the [GFADS Research Group](https://sites.google.com/a/cin.ufpe.br/gfads/), and am supervised by Prof. [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and [George Cavalcanti](https://darmiton.com/).
+I am a third-year PhD student in Computer Science at [UFPE](https://www.ufpe.br/), advised by Prof. [Nelson Rosa](https://www.cin.ufpe.br/~nsr/) and Prof. [George Cavalcanti](https://darmiton.com/). 
+I am affiliated with the [GFADS Research Group](https://sites.google.com/a/cin.ufpe.br/gfads/) at the [Centro de Infórmatica](https://portal.cin.ufpe.br/).
 
+I am broadly interested in distributed systems and machine learning areas. My current research focuses on developing proactive self-adaptive systems using time series forecasting to maintain/improve microservices' performance.
 
+I am also spending a semester as a visiting student at the University of British Columbia, where I am researching at the Systopia Lab advised by Prof. [Thomas Pasquier](https://tfjmp.org/).
 {style="text-align: justify;"}
