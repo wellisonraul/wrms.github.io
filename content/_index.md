@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: experience
     content:
       title: Experience
       # Date format for experience
@@ -54,74 +55,40 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Ph.D. and MS.c. fellow
+          company: UFPE
+          company_url: 'https://www.ufpe.br/'
+          company_logo: cin-s
+          location: Recife, Brazil
+          date_start: '2018-03-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
+              I used AI to adapt microservices in my MSc and PhD research. My Master's research resulted in a proactive, adaptive solution that decreased app response time by 20\% compared to the de facto baseline approach (HPA) in best-case scenarios. Also, I focused on improving the forecast component through the Multiple Predictors System (MPS) in my PhD. </br></br><b>Transferable skills</b>&#58; Machine Learning, Microservices, Time series forecasting, Auto-scaling, Self-adaptive Systems, Kubernetes, Python, Java
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+
+        - title: Undergraduate research in runtime verification of service compositions
+          company: Universidade do Estado do Rio Grande do Norte
+          company_url: 'https://portal.uern.br/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
-      columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
-          url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+          location: Santa Cruz, Brazil
+          date_start: '2017-08-01'
+          date_end: '2018-07-01'
+          description: This project aims to support the development, execution, and monitoring of service compositions. As service compositions are executed in dynamic environments and developed by different programmers, formal verification techniques are used to ensure the expected behaviour is met during runtime..<br/><br/><b>Transferable skills</b>&#58;  SOA, Microservices, Formal description, Self-Adaptive Systems, Systems modelling
+        - title: Undergraduate research in runtime verification of service compositions
+          company: Universidade do Estado do Rio Grande do Norte
+          company_url: 'https://portal.uern.br/'
+          company_logo: org-x
+          location: Santa Cruz, Brazil
+          date_start: '2016-08-01'
+          date_end: '2017-07-31'
+          description: |2- 
+             I created a suite of digital games using augmented reality to improve children's motor coordination. The games required the child to identify markings containing puzzles, leading them to the next mark. As a result, the software aimed to stimulate children's movement.<br/><br/><b>Transferable skills</b>&#58; Unity, Android, Augmented reality.
     design:
       columns: '2'
   - block: collection
+    id: publications
     content:
-      title: Recent Publications
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -129,10 +96,20 @@ sections:
       filters:
         folders:
           - publication
-        exclude_featured: false
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: honor
+    content:
+      title: Honors & Awards
+      text: |-
+          * [Honourable mention](uploads/mention.pdf) for the paper published at the [SRBC 2019](https://sol.sbc.org.br/index.php/sbrc_estendido/issue/view/455)
+          * Graduated with academic honours in Computer Science from the Universidade do Estado do Rio Grande do Norte as the best student.
+
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
@@ -149,5 +126,5 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
     design:
-      columns: '1'
+      columns: '2'
 ---
