@@ -58,18 +58,14 @@ sections:
         - title: Ph.D. and MS.c. fellow
           company: UFPE
           company_url: 'https://www.ufpe.br/'
-          company_logo: cin-s
           location: Recife, Brazil
           date_start: '2018-03-01'
           date_end: ''
           description: |2-
               I used AI to adapt microservices in my MSc and PhD research. My Master's research resulted in a proactive, adaptive solution that decreased app response time by 20\% compared to the de facto baseline approach (HPA) in best-case scenarios. Also, I focused on improving the forecast component through the Multiple Predictors System (MPS) in my PhD. </br></br><b>Transferable skills</b>&#58; Machine Learning, Microservices, Time series forecasting, Auto-scaling, Self-adaptive Systems, Kubernetes, Python, Java
-
-
         - title: Undergraduate research in runtime verification of service compositions
           company: Universidade do Estado do Rio Grande do Norte
           company_url: 'https://portal.uern.br/'
-          company_logo: org-x
           location: Santa Cruz, Brazil
           date_start: '2017-08-01'
           date_end: '2018-07-01'
@@ -77,7 +73,6 @@ sections:
         - title: Undergraduate research in runtime verification of service compositions
           company: Universidade do Estado do Rio Grande do Norte
           company_url: 'https://portal.uern.br/'
-          company_logo: org-x
           location: Santa Cruz, Brazil
           date_start: '2016-08-01'
           date_end: '2017-07-31'
