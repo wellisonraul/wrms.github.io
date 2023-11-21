@@ -62,22 +62,22 @@ sections:
           date_start: '2018-03-01'
           date_end: ''
           description: |2-
-              I used AI to adapt microservices in my MSc and PhD research. My Master's research resulted in a proactive, adaptive solution that decreased app response time by 20\% compared to the de facto baseline approach (HPA) in best-case scenarios. Also, I focused on improving the forecast component through the Multiple Predictors System (MPS) in my PhD. </br></br><b>Transferable skills</b>&#58; Machine Learning, Microservices, Time series forecasting, Auto-scaling, Self-adaptive Systems, Kubernetes, Python, Java
+              I used AI to adapt microservices in my MSc and PhD research. My Master's research resulted in a proactive, adaptive solution that decreased app response time by 20\% compared to the de facto baseline approach (HPA) in best-case scenarios. Also, I focused on improving the forecast component through the Multiple Predictors System (MPS) in my PhD. </br></br><b>Transferable skills</b>&#58; Machine Learning, Microservices, Time series forecasting, Auto-scaling, Self-adaptive Systems, Kubernetes, Python, and Java
         - title: Undergraduate research in runtime verification of service compositions
           company: Universidade do Estado do Rio Grande do Norte
           company_url: 'https://portal.uern.br/'
           location: Santa Cruz, Brazil
           date_start: '2017-08-01'
           date_end: '2018-07-01'
-          description: This project aims to support the development, execution, and monitoring of service compositions. As service compositions are executed in dynamic environments and developed by different programmers, formal verification techniques are used to ensure the expected behaviour is met during runtime..<br/><br/><b>Transferable skills</b>&#58;  SOA, Microservices, Formal description, Self-Adaptive Systems, Systems modelling
-        - title: Undergraduate research in runtime verification of service compositions
+          description: This project aims to support the development, execution, and monitoring of service compositions. As service compositions are executed in dynamic environments and developed by different programmers, formal verification techniques are used to ensure the expected behaviour is met during runtime. <br/><br/><b>Transferable skills</b>&#58;  SOA, Microservices, Formal description, Self-Adaptive Systems, and Systems modelling
+        - title: Undergraduate research in motor coordination
           company: Universidade do Estado do Rio Grande do Norte
           company_url: 'https://portal.uern.br/'
           location: Santa Cruz, Brazil
           date_start: '2016-08-01'
           date_end: '2017-07-31'
           description: |2- 
-             I created a suite of digital games using augmented reality to improve children's motor coordination. The games required the child to identify markings containing puzzles, leading them to the next mark. As a result, the software aimed to stimulate children's movement.<br/><br/><b>Transferable skills</b>&#58; Unity, Android, Augmented reality.
+             I created a suite of digital games using augmented reality to improve children's motor coordination. The games required the child to identify markings containing puzzles, leading them to the next mark. As a result, the software aimed to stimulate children's movement.<br/><br/><b>Transferable skills</b>&#58; Unity, Android, and Augmented reality
     design:
       columns: '2'
   - block: collection
