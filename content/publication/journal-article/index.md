@@ -1,13 +1,14 @@
 ---
-title: "An example journal article"
+title: "Microservices performance forecast using dynamic Multiple Predictor Systems"
 authors:
 - admin
-- Robert Ford
+- Adalberto Sampaio Jr
+- Nelson Rosa
+- George Cavalcanti
 author_notes:
 - "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+date: "2024-03-01T00:00:00Z"
+doi: "https://doi.org/10.1016/j.engappai.2023.107649"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "*Engineering Applications of Artificial Intelligence*"
 publication_short: ""
 
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
@@ -28,14 +29,14 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
+url_pdf: https://doi.org/10.1016/j.engappai.2023.107649
+url_code: 'https://github.com/gfads/mps-methodology'
+url_dataset: 'https://github.com/gfads/mps-methodology'
 url_poster: ''
 url_project: ''
 url_slides: ''
